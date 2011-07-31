@@ -89,7 +89,7 @@
   <project path="device/samsung/p7100" name="CyanogenMod/android_device_samsung_p7100" remote="github" />
   <project path="device/samsung/sidekick4g" name="CyanogenMod/android_device_samsung_sidekick4g" remote="github" />
   <project path="device/samsung/vibrantmtd" name="CyanogenMod/android_device_samsung_vibrantmtd" remote="github" />
-  <project path="device/samsung/spica" name="dh-harald/cm_android_device_samsung_spica" remote="github" />
+  <project path="device/samsung/spica" name="SDX/android_device_samsung_moment" remote="github" />
   <project path="device/samsung/vzwtab" name="CyanogenMod/android_device_samsung_vzwtab" remote="github" />
   <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" remote="github" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" remote="github" />
@@ -191,7 +191,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" />
-  <project path="frameworks/base" name="dh-harald/cm_android_frameworks_base" remote="github" />
+  <project path="frameworks/base" name="SDX/android_frameworks_base" remote="github" />
   <project path="frameworks/ex" name="platform/frameworks/ex" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
@@ -201,7 +201,7 @@
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" remote="github" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="github" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" remote="github" />
-  <project path="hardware/ril" name="dh-harald/platform_hardware_ril" remote="github" />
+  <project path="hardware/ril" name="SDX/platform_hardware_ril" remote="github" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" remote="github" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" remote="github" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="github" />
@@ -276,7 +276,7 @@
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
 
   <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
-  <project path="vendor/spica" name="dh-harald/cm_android_vendor_spica" remote="github" />
+  <project path="vendor/spica" name="SDX/android_vendor_moment" remote="github" />
 
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
@@ -287,6 +287,6 @@
   
 
 
-  <project path="android" name="dh-harald/cm_android" remote="github" />
+  <project path="android" name="SDX/cm_android" remote="github" />
 
 </manifest>
